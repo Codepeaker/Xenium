@@ -1,0 +1,132 @@
+<resources>
+    <string name="app_name">Xenium 16.0</string>
+
+    <string-array name="Colleges">
+        <item>P.G.D.A.V. College</item>
+        <item>A.B.E.S. College</item>
+        <item>Acharya Narendra Dev College</item>
+        <item>Aditi Mahavidyalaya</item>
+        <item>Ambedkar Institute Of Technology</item>
+        <item>Amity School Of Engineering and Technology</item>
+        <item>Amity University</item>
+        <item>Ansal Institute Of Technology</item>
+        <item>A.K.G. College</item>
+        <item>Atma Ram Sanatan Dharam College</item>
+        <item>Ayurvedic and Unani Tibbia College</item>
+        <item>Bhagini Nivedita College</item>
+        <item>Bhagwan Parshuram Institute Of Technology</item>
+        <item>Bharati College</item>
+        <item>Bharti Vidyapeeth\'s College Of Engineering</item>
+        <item>Bhaskaracharya College of Applied Sciences</item>
+        <item>Bhim Rao Ambedkar College</item>
+        <item>BITS</item>
+        <item>B.H.U.</item>
+        <item>College of Art</item>
+        <item>College of Vocational Studies</item>
+        <item>Daulat Ram College</item>
+        <item>Deen Dayal Upadhyaya College</item>
+        <item>Delhi College of Arts and Commerce</item>
+        <item>Delhi Institute of Pharmaceutical Sciences and Research</item>
+        <item>Delhi Institute Of Tool Engineering</item>
+        <item>Delhi Technological University</item>
+        <item>Deshbandhu College</item>
+        <item>Dyal Singh College</item>
+        <item>Dyal Singh College (Evening)</item>
+        <item>Galgotias College of Engineering and Technology</item>
+        <item>Gargi College</item>
+        <item>G.B Pant Govt. Engineering College</item>
+        <item>G.L. Bajaj</item>
+        <item>Government Engineering College</item>
+        <item>Greater Noida Institute of Technology</item>
+        <item>Guru Premsukh Memorial College Of Engineering</item>
+        <item>Guru Teg Bhadur Institute Of Technology</item>
+        <item>Hans Raj College</item>
+        <item>Hindu College</item>
+        <item>HMR Institute Of Technology and Management</item>
+        <item>IIT Delhi</item>
+        <item>IIT Mumbai</item>
+        <item>IIT Kharagpur</item>
+        <item>IIT Cheenai</item>
+        <item>IIT Roorkee</item>
+        <item>IGDTUW</item>
+        <item>Indira Gandhi Institute of Physical Education and Sports Sciences</item>
+        <item>Indra Gandhi Institute Of Technology</item>
+        <item>Indraprastha College for Women</item>
+        <item>Institute of Home Economics</item>
+        <item>Janki Devi Memorial College</item>
+        <item>Jesus and Mary College</item>
+        <item>JSS Noida</item>
+        <item>Kalindi College</item>
+        <item>Kamala Nehru College</item>
+        <item>Kamala Nehru Institute of Technology</item>
+        <item>Keshav Mahavidyalaya</item>
+        <item>Kirori Mal College</item>
+        <item>Lady Hardinge Medical College</item>
+        <item>Lady Irwin College</item>
+        <item>Lady Shri Ram College for Women</item>
+        <item>Lakshmibai College</item>
+        <item>Maharaja Agrasen College, DU</item>
+        <item>Maharaja Agrasen Institute Of Technology, IP</item>
+        <item>Maharaja Surajmal Institute Of Technology</item>
+        <item>Maharshi Valmiki College of Education</item>
+        <item>Maitreyi College</item>
+        <item>Mata Sundri College for Women</item>
+        <item>Maulana Azad Medical College</item>
+        <item>Miranda House</item>
+        <item>Motilal Nehru College</item>
+        <item>Motilal Nehru College (Evening)</item>
+        <item>National Power Training Institute</item>
+        <item>Nehru Homoeopathic Medical College and Hospital</item>
+        <item>Netaji Subhas Institute of Technology</item>
+        <item>NIT Delhi</item>
+        <item>NIT Patna</item>
+        <item>NIT Bhopal</item>
+        <item>NIT Allahbad</item>
+        <item>NIT Kurukshetra</item>
+        <item>Northern India Engineering College</item>
+        <item>P.G.D.A.V. College (Evening)</item>
+        <item>Rajdhani College</item>
+        <item>Rajkumari Amrit Kaur College of Nursing</item>
+        <item>Ram Lal Anand College</item>
+        <item>Aryabhatta College</item>
+        <item>Ramanujan College</item>
+        <item>Ramjas College</item>
+        <item>Satyawati College</item>
+        <item>Satyawati College (Evening)</item>
+        <item>School of Open Learning</item>
+        <item>Shaheed Bhagat Singh College</item>
+        <item>Shaheed Bhagat Singh College (Evening)</item>
+        <item>Shaheed Rajguru College of Applied Sciences for Women</item>
+        <item>Shaheed Sukhdev College of Business Studies</item>
+        <item>Sharda University</item>
+        <item>Shivaji College</item>
+        <item>Shri Ram College of Commerce</item>
+        <item>Shyam Lal College</item>
+        <item>Shyam Lal College (Evening)</item>
+        <item>Shyama Prasad Mukherji College for Women</item>
+        <item>Sri Aurobindo College</item>
+        <item>Sri Aurobindo College (Evening)</item>
+        <item>Sri Guru Gobind Singh College of Commerce</item>
+        <item>Sri Guru Nanak Dev Khalsa College</item>
+        <item>Sri Guru Teg Bahadur Khalsa College</item>
+        <item>Sri Venkateswara College</item>
+        <item>St. Stephen\'s College</item>
+        <item>Swami Shraddhanand College</item>
+        <item>University College of Medical Sciences and Guru Teg Bahadur Hospital</item>
+        <item>University School of Chemical Technology</item>
+        <item>University School Of Information Technology</item>
+        <item>Vallabhbhai Patel Chest Institute</item>
+        <item>Vivekananda College</item>
+        <item>Zakir Husain Delhi College</item>
+        <item>Zakir Husain Post Graduate Evening College</item>
+        <item>Others</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_demo">Demo</string>
+    <string name="action_settings">Settings</string>
+    <string name="navigation_drawer_open">Up</string>
+    <string name="navigation_drawer_close">Down</string>
+
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="parikalan.xenium">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name="parikalan.xenium.activities.Event_List"/>
+        <activity android:name="parikalan.xenium.activities.Splashscreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="parikalan.xenium.activities.RegisterActivity" />
+        <activity android:name="parikalan.xenium.activities.Events" />
+        <activity android:name="parikalan.xenium.activities.Timeline"
+            android:label="Timeline"/>
+        <activity android:name="parikalan.xenium.activities.CollegeMapActivity"
+            android:label="College Map"/>
+        <activity android:name="parikalan.xenium.activities.AboutUs" />
+        <activity android:name="parikalan.xenium.activities.HomeActivity" />
+        <activity android:name=".glideimages.GalleryActivity"
+            android:label="Gallery"/>
+        <activity android:name=".glideimages.DetailActivity" />
+        <activity
+            android:name="parikalan.xenium.Demo"
+            android:label="My Events"
+            android:theme="@style/AppTheme"></activity>
+    </application>
+
+</manifest>
